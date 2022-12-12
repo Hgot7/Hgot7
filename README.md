@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgot7&show_icons=true&locale=en" alt="hgot7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgot7&" alt="hgot7" /></p>
-<p> สวัสดี ครับ </p>
