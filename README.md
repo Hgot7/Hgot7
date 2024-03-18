@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Studying for a bachelor's degree**
 
-- 🌱 I’m currently learning **HTML ,**CSS, Javascript**
+- 🌱 I’m currently learning **HTML ,CSS, Javascript**
 
 - 📫 How to reach me **got7539@gmail.com**
 
