@@ -44,4 +44,4 @@
  <img src="https://github-readme-stats.vercel.app/api?username=hgot7&show_icons=true&theme=radical" height="200" alt="languages graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgot7&" alt="hgot7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgot7&theme=tokyonight" alt="hgot7" /></p>
