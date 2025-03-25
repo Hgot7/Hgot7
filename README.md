@@ -8,7 +8,7 @@
 
 - 📫 Computer engineering student at **Rajamangala University of Technology Thanyaburi**
 
-- 🌱 I’m currently learning **HTML ,CSS, Javascript**
+- 🌱 I’m currently learning **Nuxt.js, Next.js And Docker**
 
 - ⚡ Work Hard Work Smart **And I am funny**
 
