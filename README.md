@@ -4,7 +4,7 @@
 <a align="left" href="https://github.com/Hgot7" > <img src="https://komarev.com/ghpvc/?username=hgot7&label=Profile%20views&color=0e75b6&style=flat"  alt="hgot7" /> 
 <a href="https://wakatime.com/@439faa92-94a9-426a-88bc-ba19c1258a4f"><img src="https://wakatime.com/badge/user/439faa92-94a9-426a-88bc-ba19c1258a4f.svg" alt="Total time coded since Feb 8 2023" /></a></p>
 
-- 🔭 I’m currently working on **Studying for a bachelor's degree**
+- 🔭 I’m currently working at **Software House**
 
 - 📫 Computer engineering student at **Rajamangala University of Technology Thanyaburi**
 
