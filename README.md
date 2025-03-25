@@ -100,7 +100,9 @@
 <h3 align="left">😎Stats :</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hgot7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" width: 42%; alt="languages graph"  />
- <img src="https://github-readme-stats.vercel.app/api?username=hgot7&show_icons=true&theme=radical" height="200" width: 53%;  alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hgot7&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="languages graph">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hgot7&amp;theme=radical&amp;hide_border=false" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hgot7&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 </div>
+
 
