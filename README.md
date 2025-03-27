@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Software House**
 
-- 📫 I graduated with a degree in Computer Engineering from **Rajamangala University of Technology Thanyaburi**
+- 📫 I graduated with a Bachelor's degree in Computer Engineering from **Rajamangala University of Technology Thanyaburi**
 
 - 🌱 I’m currently learning **Nuxt.js, Next.js And Docker**
 
