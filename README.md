@@ -89,6 +89,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo"  />
+  <img width="12" />
   <!-- Mobile Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
@@ -105,7 +107,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/postgresql.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <!-- DevOps and Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -128,6 +130,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" height="40" alt="ngrok logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/n8n.svg" height="40" alt="n8n logo" />
+  <img width="12" />
   <!-- Package Managers -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
@@ -147,10 +153,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visual studio logo" />
+  <img width="12" />
   <!-- Design Software -->
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <!-- New -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/affinityphoto.svg" height="40" alt="affinity photo logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/affinitydesigner.svg" height="40" alt="affinity designer logo" />
   <img width="12" />
   <!-- Embedded Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
